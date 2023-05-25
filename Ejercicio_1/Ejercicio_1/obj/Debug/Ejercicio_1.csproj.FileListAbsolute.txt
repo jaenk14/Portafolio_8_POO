@@ -1,0 +1,7 @@
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 8\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 8\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 8\Ejercicio_1\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 8\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.AssemblyReference.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 8\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.csproj.CoreCompileInputs.cache
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 8\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+D:\Curso INA Programacion\5to Modulo Programacion orientada a Objetos\Tareas C#\Tarea 8\Ejercicio_1\Ejercicio_1\obj\Debug\Ejercicio_1.pdb
